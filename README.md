@@ -7,3 +7,48 @@ Everything they do helps make sure the project can be completed on time and
 on budget.
 In broad terms, a project manager also needs to make sure that
 the project outcome is bringing value to the company.
+
+Some common project management-related buzzwords and skills you could include on your resume and while searching jobs are:
+
+    Analytical
+    Assertive
+    Assessing outcomes
+    Assessing progress
+    Attention to detail
+    Conflict resolution
+    Collaborative
+    Coordination
+    Communication
+    Development
+    Evaluation
+    Executing plans
+    Financial analysis
+    Impact assessment
+    Leadership engagement
+    Managing meetings
+    Managing client expectations
+    Managing conflicts
+    Managing relationships with stakeholders
+    Managing vendors
+    Meeting deadlines
+    Monitoring
+    Multitasking
+    Planning
+    Prioritizing
+    Problem-solving
+    Process development
+    Process improvement
+    Project coordination
+    Project implementation
+    Project initialization
+    Project planning
+    Project reporting
+    Quality control
+    Risk assessment
+    Risk management
+    Solution development
+    Strategic planning
+    Strong interpersonal skills
+    Strong verbal communication
+    Strong written communication
+
