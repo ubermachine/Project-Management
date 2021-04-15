@@ -101,3 +101,14 @@ Showing your team how much they have accomplished helps keep them motivated. Tak
 Recognize efforts
 
 Sometimes, when you work with cross-functional teams, there are certain skills that get recognized more than others. A mechanic could get accolades for coming up with the solution to a problem within the project, while the finance member who sourced the funding might be forgotten. As a project manager, it is your job to make sure that each member of your cross-functional team recognizes the value of their efforts each step of the way. You have learned the importance of building relationships with stakeholders, and building relationships with your cross-functional team members is just as important. Learning what makes your team members feel supported, giving and taking feedback, and being mindful of each individual's background, personal identifiers, and work style can help mediate some of the differences among team members. 
+
+# Core skills  
+Enabling decision-making,
+communicating and escalating, flexibility,
+and strong organizational skills. 
+
+# Interpersonal skills 
+communication, negotiation,
+conflict mediation and understanding motivations are
+all interpersonal skills that will
+help you influence without authority. 
