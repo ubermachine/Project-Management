@@ -169,3 +169,7 @@ processes for owning a project through its life cycle.
 Project management methodologies
 help guide project managers throughout a project with steps to take,
 tasks to complete, and principles for managing the project overall. 
+
+
+
+![image](https://user-images.githubusercontent.com/53916068/115158528-36d9e200-a0ac-11eb-9789-8929539f5cf7.png)
