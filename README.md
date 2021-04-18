@@ -220,3 +220,22 @@ The seven key principles of Six Sigma are:
     Approach improvement activity in a systematic way.
 
 Use this methodology to find aspects of the product or process that are measurable like time, cost, or quantity. Then inspect that measurable item and reject any products that do not meet the Six Sigma standard. Any process that created unacceptable products has to be improved upon.  
+  
+  
+## Popular project management approaches
+
+Below is a brief recap of some of the project management approaches you’ve been introduced to so far:
+
+Waterfall is a traditional methodology in which tasks and phases are completed in a linear, sequential manner, and each stage of the project must be completed before the next begins. The project manager is responsible for prioritizing and assigning tasks to team members. In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project.
+
+Agile involves short phases of collaborative, iterative work with frequent testing and regularly-implemented improvements. Some phases and tasks happen at the same time as others. In Agile projects, teams share responsibility for managing their own work. Scrum and Kanban are examples of Agile frameworks, which are specific development approaches based on the Agile philosophy.
+
+Scrum focuses on developing, delivering, and sustaining complex project and products through collaboration, accountability, and an iterative process. Like many Agile frameworks, work is often completed by smaller, cross-functional teams and divided into short “Sprints” with a set list of deliverables.
+
+Kanban is both an approach and a tool that provides visual feedback about the status of the work in progress through the use of Kanban boards or charts. With Kanban, project managers use sticky notes or note cards on a physical or digital Kanban board to represent the team’s tasks with categories like “To do,” “In progress,” and “Done.”
+
+Lean focuses on efficiency, applying core principles to maximize value and minimize waste. Lean’s principles state that you can do more with less by addressing dysfunctions that create waste.
+
+Six Sigma involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
+
+Lean Six Sigma is a combination of Lean and Six Sigma approaches. It uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean Six Sigma uses Kanban boards to manage production and is ideal for solving complex or high-risk problems.
