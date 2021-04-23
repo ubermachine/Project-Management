@@ -239,3 +239,68 @@ Lean focuses on efficiency, applying core principles to maximize value and minim
 Six Sigma involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
 
 Lean Six Sigma is a combination of Lean and Six Sigma approaches. It uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean Six Sigma uses Kanban boards to manage production and is ideal for solving complex or high-risk problems.
+
+
+## Basic knowledge of these methodologies
+Well done!
+
+19 of 20 correct
+
+You’ve shown that you have a firm understanding of the difference between the different project methodologies
+Waterfall
+
+    Following a linear path through the project phases is a Waterfall characteristic.
+
+    Certain tasks must be completed before others can begin.
+    The Waterfall as a methodology was created in the 1970s.
+    Clearly defined project phases are a Waterfall characteristic.
+
+    The project team should stick to the plan once the project begins.
+    In Waterfall, the project manager makes plans and clearly defines criteria to measure quality at the beginning of the project.
+
+    Because it is difficult to change the course of Waterfall projects in progress, they involve detailed advance planning.
+    In Waterfall projects, the project manager is an active leader who prioritizes and assigns tasks to team members.
+
+    The PM’s job is to lead the team through the linear progression of project phases.
+    In Waterfall, change is often difficult to manage once the project begins.
+
+    Because they are carried out in sequence, Waterfall projects are not very receptive to change.
+    Project deliverables and plans are well-established and documented early on in Waterfall projects.
+
+    The project begins only after goals, tasks, and schedules are approved.
+
+Agile / Scrum
+
+    Agile involves organizing time into “Sprints” with a set list of deliverables.
+
+    Some phases and tasks happen at the same time as others.
+    The Agile methodology was created in the 1990s.
+    Testing products in the field and regularly implementing improvements is an Agile characteristic.
+
+    Feedback and testing can influence future work.
+    In Agile projects, teams share responsibility for managing their own work.
+
+    The project manager acts as a facilitator who removes barriers for the team.
+    Agile projects are iterative, which makes them receptive to change.
+    Planning happens in short iterations to deliver value quickly in agile projects.
+
+    Planning each new Sprint as it arises makes for more flexible projects.
+
+Lean Six Sigma
+
+    Lean Six Sigma uses a Kanban scheduling system to manage production.
+    The Lean Six Sigma approach aims to eliminate 8 areas of waste.
+
+    Reducing waste and increasing efficiency are core aspects of this methodology.
+    Using the 5S quality tool is an Lean Six Sigma characteristic.
+
+    The 5S tool helps teams use limited resources, reduce waste, and streamline processes.
+    Lean Six Sigma is ideal for fixing complex or high-risk problems.
+
+Applies to all 3
+
+    All methodologies can be combined with other approaches, depending on project needs.
+    All methodologies aim to deliver the project on time and within budget.
+    All methodologies require collaboration among various teams.
+
+    Communication and working together across disciplines is key to every project’s success.
