@@ -304,3 +304,23 @@ Applies to all 3
     All methodologies require collaboration among various teams.
 
     Communication and working together across disciplines is key to every project’s success.
+    
+    
+# What are the functions of a PMO?
+
+PMOs offer guidance and support to their organization’s project managers. They share best practices, project statuses, and direction for all of the organization’s projects while often taking on strategic projects themselves. The main functions of a PMO include:
+Strategic planning and governance
+
+This is the most important function of a PMO. This involves defining project criteria, selecting projects according to the organization’s business goals, and then providing a business case for those projects to management. 
+Best practices
+
+PMOs help implement best practices and processes within their organization. They also share lessons learned from previous successful projects. They help ensure consistency among their organization’s projects by providing guidance about processes, tools, and metrics.
+Common project culture 
+
+PMOs help set common project culture practices by training employees about optimal approaches and best practices. This helps keep project management practices consistent and efficient across the entire organization. 
+Resource management
+
+PMOs are often responsible for managing and allocating resources—such as people and equipment—across projects throughout the organization based on budget, priorities, schedules, and more. They also help define the roles and responsibilities needed on any given project. PMOs provide training, mentoring, and coaching to all employees, but project managers in particular. 
+Creation of project documentation, archives, and tools
+
+PMOs invest in and provide templates, tools, and software to help manage projects. They also play an important role in maintaining their organization’s project history. Once a project closes, they archive all of the documents created during the project for future reference and to capture lessons learned. 
